@@ -73,8 +73,6 @@ public class MainActivity extends AppCompatActivity implements RvAdapter.OnAlbum
                 } else {
                     Toast.makeText(MainActivity.this, "Sorry, No more album!", Toast.LENGTH_SHORT).show();
                 }
-
-
             }
         });
 
